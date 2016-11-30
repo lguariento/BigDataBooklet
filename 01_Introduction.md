@@ -19,5 +19,7 @@ The arts and humanities have a great deal to offer a Big Data economy and societ
 In a spirited intervention at a panel during the Newcastle Literary Festival, part of the Poetics of an Archive project, the poet and library curator Richard Price explained how a vibrant local poetry scene can contribute to a successful urban economy. The AHRC Big Data projects also showed how the spirit of poetry can contribute to a successful data economy.         
   
 Andrew Prescott
+<br />
 University of Glasgow
+<br />
 AHRC Theme Leader Fellow for Digital Transformations
