@@ -1,4 +1,24 @@
-title: "Big Data Booklet"
-description: The Big Data Booklet
+# Setup
+name:         Big Data Booklet
+tagline:      BIg Data Booklet [description]
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+title: Big Data Booklet
+description: 
+google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: 
