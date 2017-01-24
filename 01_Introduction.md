@@ -1,3 +1,7 @@
+---
+title: Introduction
+---
+
 ## Introduction
 
 ‘Big Data’ as a shorthand term describes the recent explosion in digital data and the new computing methods developed to manage and exploit these vast amounts of data. Google indexes over 20 billion pages a day; Visa processes 300 million transactions a day; the Large Hadron Collider generated over 200 petabytes of data in the search for the Higgs Boson, while the Square Kilometre Array radio telescope will from 2024 produce over four times as much data as is currently carried on the World Wide Web. We usually assume that Big Data is chiefly connected with science or commerce, but arts and humanities researchers are also exploring the problems and opportunities offered by the exponential growth in digital data. 
