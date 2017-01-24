@@ -1,6 +1,6 @@
 # Setup
-name:         Big Data Booklet
-tagline:      BIg Data Booklet [description]
+name:         Big Data in the Arts and Humanities
+tagline:      Some Arts and Humanities Research Council Projects
 baseurl:      ""
 
 # Gems
@@ -17,7 +17,7 @@ defaults:
     values:
       layout: "default"
 
-title: Big Data Booklet
+title: Big Data in the Arts and Humanities
 description: 
 google_analytics: 
 show_downloads: true
