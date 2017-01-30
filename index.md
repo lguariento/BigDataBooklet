@@ -2,7 +2,7 @@
 title: index
 ---
 
-# Contributions
+## Contributions
 
 1. [Introduction](01_Introduction.html)
 2. [The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive](02.html)
