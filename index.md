@@ -1,123 +1,40 @@
 ---
-layout: default
+title: index
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Contributions
 
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. [Introduction](01_Introduction.html)
+2. [The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive](02.html)
+3. [Silent Witness](03.html)
+4. [Tangible Memories: Community in Care](04.hmtl)
+5. [Dynamic Dialects]()
+6. [Statistics and ‘Big Data’ in the Humanities]()
+7. [Palimpsest: an Edinburgh Literary Cityscape]()
+8. [Seeing Data, Feeling Numbers: responding emotionally to data visualisations]()
+9. [Big UK Domain Data for the Arts and Humanities]()
+10. [What are the odds? Capturing and exploring data created by online political gambling markets]()
+11. [Mining the History of Medicine]()
+12. [Visualising European Crime Fiction]()
+13. [The Secret Life of a Weather Datum]()
+14. [Affective Digital Histories: Re-interpreting De-industrial Places, 1970s to the Present
+]()
+15. [Stories ACCORDing to Communities]()
+16. [The SAMUELS project]()
+17. [A Pilot Historical Thesaurus of Scots]()
+18. [Networking Ancient People - Engaging New Researchers]()
+19. [Proteus: Capturing the Big Data Problem of Ancient Literary Projects]()
+20. [MicroPasts: Crowd- and Community-Fuelled Archaeological Research]()
+21. [Our Data, Ourselves]()
+22. [The Ethno-Ornithology World Archive Takes Flight]()
+23. [Optical Music Recognition from Multiple Sources]()
+24. [Analysing Music Recordings from the British Library with the Digital Music Lab]()
+25. [A Big Data History of Music]()
+26. [The Illustration Archive]()
+27. [Big Data for Law]()
+28. [Deep Film Access]()
+29. [Understanding the Annotation Process]()
+30. [Traces through Time]()
+31. [Heritage Together]()
+32. [Co-curating Big Data in the North East]()
+33. [Pararchive: Open Access Community Storytelling and the Digital Archive]()
