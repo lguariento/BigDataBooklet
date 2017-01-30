@@ -1,4 +1,4 @@
-_layouts/
+_layouts/*
 _config.yml
 fonts/*
 Gemfile
