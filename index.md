@@ -3,13 +3,13 @@ title: index
 ---
 
 ## Contributions
-
+<ul>
 {% for item in site.contributions %}
 
-<ul><li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li></ul>
+<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
 
 {% endfor %}
-
+</ul>
 
 1. [Introduction](01_Introduction.html)
 2. [The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive](02.html)
