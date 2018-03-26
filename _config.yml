@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
 
+name:         Big Data in the Arts and Humanities
+tagline:      Some Arts and Humanities Research Council Projects
+baseurl: ""
+show_downloads: true
+
 collections:
         contributions:
                 output: true
@@ -9,4 +14,4 @@ defaults:
                 type: contributions
 
           values:
-layout: default
+                layout: default
