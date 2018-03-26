@@ -15,4 +15,4 @@ defaults:
                 type: contributions
 
           values:
-                layout: default
+                layout: "default"
