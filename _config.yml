@@ -18,7 +18,7 @@ defaults:
       layout: "default"
 
 title: Big Data in the Arts and Humanities
-description: 
-google_analytics: 
+description:
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: 
