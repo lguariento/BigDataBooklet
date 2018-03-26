@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+collections:
+        contributions:
+                output: true
+defaults:
+        - scope:
+                path: ""
+                type: contributions
+
+          values:
+layout: default
