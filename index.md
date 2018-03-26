@@ -4,6 +4,11 @@ title: index
 
 ## Contributions
 
+{% for item in site.contributions %}
+
+{{ item.title }}
+{% endfor %} 
+
 1. [Introduction](01_Introduction.html)
 2. [The Poetics of the Archive: Creative and Community Engagement with the Bloodaxe Archive](02.html)
 3. [Silent Witness](03.html)
